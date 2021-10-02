@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# weather-app
+Weather-app with React JS before using useReduce
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# weather-app
-Weather-app with React JS before using useReduce
->>>>>>> cfd563fd7cc9dba648b08d7fc5bc18c98d0c27af
+
+
+
